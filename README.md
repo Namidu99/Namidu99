@@ -12,7 +12,7 @@
 **`Building meaningful software, one commit at a time`**
 
 [![Email](https://img.shields.io/badge/Email-nami.hasalanka%40gmail.com-red?style=flat-square&logo=gmail)](mailto:nami.hasalanka@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-namidu--kumarasinghe-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/namidu-kumarasinghe-943a7a2a2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-namidu--kumarasinghe-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/namidu-kumarasinghe-943a7a2a2/)
 [![GitHub](https://img.shields.io/badge/GitHub-Namidu99-black?style=flat-square&logo=github)](https://github.com/Namidu99)
 
 </div>
