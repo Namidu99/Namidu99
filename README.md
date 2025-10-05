@@ -31,12 +31,12 @@ I'm driven by the challenge of transforming complex problems into elegant soluti
 
 ```mermaid
 graph LR
-    A[Learning Phase] --> B[Backend Mastery]
-    A --> C[DevOps Practices]
-    A --> D[Full-Stack Projects]
-    B --> E[FastAPI & Django]
-    C --> F[Docker & Cloud]
-    D --> G[Microservices Architecture]
+    A[Current Focus] --> B[Full-Stack Development]
+    A --> C[Mobile Development]
+    A --> D[Cloud Integration]
+    B --> E[Laravel & Next.js]
+    C --> F[Flutter & Firebase]
+    D --> G[Modern Architectures]
     
     style A fill:#4CAF50
     style B fill:#2196F3
@@ -44,10 +44,10 @@ graph LR
     style D fill:#9C27B0
 ```
 
-- 🔭 Exploring **backend frameworks** (Laravel, Django, FastAPI, Express.js)
-- 🐳 Diving into **containerization** and **cloud deployment**
-- 🤝 Contributing to **open-source** projects
-- 🏗️ Architecting **full-stack microservices** applications
+- 🔭 Building **production-ready full-stack** applications
+- 📱 Developing **cross-platform mobile** solutions with Flutter
+- 🔥 Integrating **Firebase** for real-time features
+- 🏗️ Architecting **scalable** modern applications
 
 ---
 
@@ -55,46 +55,72 @@ graph LR
 
 ### Frontend Ecosystem
 ```
-HTML5 • CSS3 • JavaScript • React • Bootstrap • Material-UI • Blade Templates
+HTML5 • CSS3 • JavaScript • React • Next.js • Flutter • Tailwind CSS • Bootstrap • Material-UI
 ```
 
 ### Backend & Databases
 ```
-PHP • Python • Node.js (Express.js) • MySQL • PostgreSQL
+PHP • Laravel • Python • Node.js (Express.js) • MySQL • PostgreSQL • Firebase • Firestore
+```
+
+### Mobile Development
+```
+Flutter • Dart • Firebase Authentication • Cloud Firestore • Provider State Management
 ```
 
 ### DevOps & Tools
 ```
-Git • GitHub • CI/CD Pipelines • Docker (learning) • Linux
+Git • GitHub • CI/CD Pipelines • Docker • Linux • Firebase Hosting
 ```
 
 ### Architecture & Practices
 ```
-RESTful APIs • Database Design • MVC Pattern • Version Control • Agile Workflows
-```
-
----
-
-## 📊 Development Journey
-
-```mermaid
-gantt
-    title My Software Engineering Journey
-    dateFormat YYYY-MM
-    section Foundation
-    PHP & MySQL Basics           :2023-01, 2023-06
-    section Web Development
-    Login Systems & CRUD Apps    :2023-06, 2023-12
-    section Advanced
-    SCM & Collaborative Dev      :2023-12, 2024-06
-    Full-Stack Applications      :2024-06, 2024-12
-    section Current
-    Modern Frameworks & DevOps   :2024-12, 2025-06
+RESTful APIs • JWT Authentication • Database Design • MVC Pattern • State Management • Responsive Design
 ```
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🌟 Production-Level Projects
+
+#### **🛒 Full Stack E-Commerce Web Application** `NEW`
+*Complete E-Commerce System with Role-Based Access*
+- 📦 **Stack**: Laravel 10, Next.js 14, MySQL, Tailwind CSS
+- 🎯 **Features**: 
+  - Three-tier user system (Admin, User, Customer)
+  - Product management with CRUD operations
+  - Shopping cart and customer profiles
+  - Advanced search with 4+ filters
+  - User privilege management
+  - Light/Dark mode toggle
+- 💡 **Key Achievements**: 
+  - Built scalable REST APIs with Laravel Sanctum
+  - Implemented responsive design across all devices
+  - Integrated client & server-side validation
+  - Dashboard with real-time statistics
+- 🔗 **Admin Panel**: `localhost:3000/login`
+- 🔗 **Customer Panel**: `localhost:3000/customer/login`
+
+#### **🏠 CampusStay - Smart Rental Finder App** `NEW`
+*Mobile App for Students & Professionals*
+- 📦 **Stack**: Flutter, Firebase (Auth, Firestore), OpenStreetMap, Provider
+- 🎯 **Features**: 
+  - Location-based property discovery
+  - Interactive map with property markers
+  - Real-time chat between landlords & seekers
+  - Admin moderation system for listings & reviews
+  - Smart onboarding with personalized suggestions
+  - Wishlist and submission management
+- 💡 **Key Achievements**: 
+  - Designed for Sri Lankan campus/workplace transitions
+  - Integrated geolocation services
+  - Implemented secure Firebase authentication
+  - Built admin approval workflow
+  - Created role-based access control
+- 🌐 **Upcoming**: Multi-language support, visit scheduler, nearby services
+
+---
 
 ### 🎓 Academic & Learning Projects
 
@@ -116,6 +142,8 @@ gantt
 - 🎯 **Focus**: Authentication, session management, security basics
 - 💡 **Key Learning**: Form validation, SQL injection prevention, password hashing
 
+---
+
 ### 🔍 Open Source Exploration
 
 #### **HR & Payroll System Analysis**
@@ -126,14 +154,35 @@ gantt
 
 ---
 
+## 📊 Development Journey
+
+```mermaid
+gantt
+    title My Software Engineering Journey
+    dateFormat YYYY-MM
+    section Foundation
+    PHP & MySQL Basics           :2023-01, 2023-06
+    section Web Development
+    Login Systems & CRUD Apps    :2023-06, 2023-12
+    section Advanced
+    SCM & Collaborative Dev      :2023-12, 2024-06
+    Full-Stack Applications      :2024-06, 2024-12
+    section Current
+    Laravel & Next.js Mastery    :2024-12, 2025-03
+    Flutter & Mobile Development :2025-01, 2025-06
+```
+
+---
+
 ## 📈 GitHub Activity
 
 ```mermaid
 pie title Repository Distribution
-    "Web Applications" : 40
-    "Learning Projects" : 30
-    "Open Source Forks" : 20
-    "Experimental" : 10
+    "Production Apps" : 25
+    "Web Applications" : 30
+    "Mobile Apps" : 15
+    "Learning Projects" : 20
+    "Open Source Forks" : 10
 ```
 
 <div align="center">
@@ -141,10 +190,11 @@ pie title Repository Distribution
 ### Stats at a Glance
 | Metric | Count |
 |:---:|:---:|
-| 📦 Public Repositories | 7 |
-| ⭐ Stars Earned | 1 |
-| 🔱 Forks Created | 3 |
+| 📦 Public Repositories | 9+ |
+| ⭐ Stars Earned | Growing |
+| 🔱 Forks Created | 3+ |
 | 👥 Collaborative Projects | Active |
+| 🚀 Production Apps | 2 |
 
 </div>
 
@@ -154,21 +204,21 @@ pie title Repository Distribution
 
 ```mermaid
 graph TD
-    A[Current State] --> B[Q1 2025: Framework Mastery]
-    B --> C[Q2 2025: DevOps & Cloud]
-    C --> D[Q3-Q4 2025: Full-Stack Microservices]
+    A[Current State] --> B[Q1 2025: Full-Stack & Mobile]
+    B --> C[Q2 2025: DevOps & Deployment]
+    C --> D[Q3-Q4 2025: Advanced Features]
     
-    B --> B1[Laravel Deep Dive]
-    B --> B2[Django/FastAPI]
-    B --> B3[Express.js Advanced]
+    B --> B1[Laravel Advanced Features]
+    B --> B2[Flutter Production Apps]
+    B --> B3[Next.js Optimization]
     
     C --> C1[Docker Containerization]
-    C --> C2[AWS/Azure Deployment]
+    C --> C2[AWS/Firebase Deployment]
     C --> C3[CI/CD Automation]
     
     D --> D1[Microservices Architecture]
-    D --> D2[API Gateway Implementation]
-    D --> D3[Portfolio Project Launch]
+    D --> D2[Real-time Features]
+    D --> D3[Portfolio Expansion]
     
     style A fill:#FF5722
     style B fill:#4CAF50
@@ -177,15 +227,17 @@ graph TD
 ```
 
 ### Short-term Goals (3-6 months)
-- ✅ Master **Laravel** or **Django** framework
-- ✅ Build and deploy **3 full-stack projects**
-- ✅ Complete **Docker & Kubernetes** fundamentals
-- ✅ Contribute to **5+ open-source projects**
+- ✅ Master **Laravel** and **Flutter** frameworks *(ACHIEVED)*
+- ✅ Build and deploy **2 production-ready projects** *(ACHIEVED)*
+- 🔄 Complete **Docker & CI/CD** fundamentals
+- 🔄 Deploy apps to **AWS/Firebase** cloud platforms
+- 🔄 Contribute to **5+ open-source projects**
 
 ### Long-term Vision (6-12 months)
-- 🎯 Architect a **microservices-based portfolio project**
-- 🎯 Achieve **AWS/Azure certification**
-- 🎯 Establish regular **OSS contribution** pattern
+- 🎯 Add **payment integration** to e-commerce platform
+- 🎯 Launch **CampusStay** to Google Play Store
+- 🎯 Build **microservices-based architecture**
+- 🎯 Achieve **AWS/Firebase certification**
 - 🎯 Mentor junior developers in the community
 
 ---
@@ -227,16 +279,29 @@ mindmap
 
 | Technology | Proficiency | Experience |
 |:---:|:---:|:---:|
-| **PHP** | ⭐⭐⭐⭐ | 2+ years |
+| **PHP & Laravel** | ⭐⭐⭐⭐⭐ | 2+ years |
+| **Flutter & Dart** | ⭐⭐⭐⭐ | Recent |
+| **Next.js & React** | ⭐⭐⭐⭐ | Recent |
+| **JavaScript** | ⭐⭐⭐⭐ | 1+ year |
 | **Python** | ⭐⭐⭐ | 1+ year |
-| **JavaScript** | ⭐⭐⭐ | 1+ year |
-| **React** | ⭐⭐⭐ | Learning |
 | **MySQL** | ⭐⭐⭐⭐ | 2+ years |
-| **PostgreSQL** | ⭐⭐⭐ | Learning |
+| **Firebase** | ⭐⭐⭐⭐ | Recent |
 | **Git/GitHub** | ⭐⭐⭐⭐ | 2+ years |
 | **Docker** | ⭐⭐ | Learning |
 
 </div>
+
+---
+
+## 🏆 Recent Achievements
+
+- ✨ Built a complete **e-commerce platform** with Laravel & Next.js
+- 📱 Developed **mobile application** using Flutter & Firebase
+- 🔐 Implemented **JWT authentication** and role-based access control
+- 🗺️ Integrated **OpenStreetMap** for location-based features
+- 🎨 Designed **responsive UI** with light/dark mode support
+- 💬 Created **real-time chat** functionality
+- 🛡️ Built **admin moderation** systems
 
 ---
 
