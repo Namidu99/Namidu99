@@ -1,4 +1,5 @@
-# 👨‍💻 Namidu Hasalanka Kumarasinghe
+# Hi there! 👋 I'm Namidu Hasalanka Kumarasinghe
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Problem+Solver+🚀;Full-Stack+%26+Mobile+Developer+📱;Laravel+%7C+Next.js+%7C+Flutter+%7C+Vue.js;BSc+(Hons)+Software+Engineering+@+CINEC;Building+meaningful+software%2C+one+commit+at+a+time+✨" alt="Typing SVG" />
@@ -9,25 +10,21 @@
 [![Email](https://img.shields.io/badge/Email-nami.hasalanka%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:nami.hasalanka@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-namidu--kumarasinghe-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/namidu-kumarasinghe-943a7a2a2/)
 [![GitHub](https://img.shields.io/badge/GitHub-Namidu99-black?style=for-the-badge&logo=github)](https://github.com/Namidu99)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Namidu99.Namidu99)](https://github.com/Namidu99)
 
 </div>
 
 ---
-
-## 🌟 Philosophy
-
-> *"Clean code, continuous learning, and collaborative problem-solving are the pillars of impactful software engineering."*
-
-I'm driven by the challenge of transforming complex problems into elegant solutions. Every project is an opportunity to learn, every bug is a lesson, and every collaboration is a chance to grow.
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 🚀 About Me
 
 ```javascript
 const namidu = {
+    role: "Software Engineer & Problem Solver",
     education: "BSc (Hons) Software Engineering - CINEC Campus",
     location: "Sri Lanka 🇱🇰",
+    philosophy: "Clean code, continuous learning, and collaborative problem-solving.",
     currentlyBuilding: [
         "Production-ready full-stack applications",
         "Cross-platform mobile solutions with Flutter",
@@ -42,34 +39,40 @@ const namidu = {
 };
 
 console.log("Welcome to my GitHub! Let's build something impactful together 🚀");
+
 ```
+
+<br clear="right"/>
+
+* 🔭 Currently working on **Enterprise Order Management Systems** and **Full-Stack E-Commerce**
+* 🌱 Learning **Cloud Architecture (AWS/Firebase)** and **DevOps**
+* 👯 Looking to collaborate on **Open Source** and **Innovative Tech Solutions**
+* 📫 Reach me at **nami.hasalanka@gmail.com**
 
 ---
 
-## 🎯 Current Focus
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-```mermaid
-graph LR
-    A[Current Focus] --> B[Full-Stack Development]
-    A --> C[Mobile Development]
-    A --> D[Cloud Integration]
-    B --> E[Laravel & Next.js & Vue.js]
-    C --> F[Flutter & Firebase]
-    D --> G[Modern Architectures]
-    
-    style A fill:#4CAF50
-    style B fill:#2196F3
-    style C fill:#FF9800
-    style D fill:#9C27B0
-```
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/Namidu99/Namidu99/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/Namidu99/Namidu99/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://www.google.com/search?q=https://raw.githubusercontent.com/Namidu99/Namidu99/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
 ### 🎨 Frontend Development
+
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -83,6 +86,7 @@ graph LR
 </p>
 
 ### ⚙️ Backend Development
+
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -93,6 +97,7 @@ graph LR
 </p>
 
 ### 🗄️ Databases
+
 <p>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -100,6 +105,7 @@ graph LR
 </p>
 
 ### 📱 Mobile Development
+
 <p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -107,6 +113,7 @@ graph LR
 </p>
 
 ### 🛠️ Tools & DevOps
+
 <p>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -120,182 +127,122 @@ graph LR
 
 ---
 
-## 🚀 Featured Projects
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-### 🌟 Production-Level Projects
-
----
-
-#### **🏢 Enterprise Order Management & Customer Notification System** `NEW`
-*Multi-Stage Order Workflow with Real-Time Notifications*
-
-- 📦 **Stack**: Laravel 10, Vue 3, Inertia.js, MySQL, REST APIs
-- 🎯 **Key Features**:
-  - Multi-step order workflow tracking orders through **6 operational stages** (creation → delivery)
-  - Automated customer notification system for real-time status updates at each stage
-  - IRM-based order tracking with unique reference generation for audit and traceability
-  - Bulk order splitting into multiple invoices based on quantity and dispatch stages
-  - Role-based access control (RBAC) with Super Admin, staff roles, and permission-based access
-  - Customer and product management modules with relational database design
-  - Secure authentication and authorization using **Laravel Breeze + Sanctum**
-- 💡 **Highlights**:
-  - Modern SPA-style frontend with **Vue 3 + Inertia.js** for smooth, fast UX
-  - Scalable MySQL schema supporting orders, invoices, workflow logs, and user permissions
-  - Applied MVC architecture, clean code practices, and RESTful design principles
-
----
-
-#### **🛒 Full Stack E-Commerce Web Application**
-*Complete E-Commerce System with Role-Based Access*
-
-- 📦 **Stack**: Laravel 10, Next.js 14, MySQL, Tailwind CSS
-- 🎯 **Key Features**:
-  - Three-tier user system (Admin, User, Customer)
-  - Product management with CRUD operations & advanced search (4+ filters)
-  - Shopping cart, customer profiles, and user privilege management
-  - Light/Dark mode toggle
-- 💡 **Highlights**:
-  - Scalable REST APIs with Laravel Sanctum
-  - Fully responsive UI across all devices
-  - Dashboard with real-time statistics
-
----
-
-#### **🏠 CampusStay - Smart Rental Finder App**
-*Mobile App for Students & Professionals*
-
-- 📦 **Stack**: Flutter, Firebase (Auth, Firestore), OpenStreetMap, Provider
-- 🎯 **Key Features**:
-  - Location-based property discovery with interactive map & property markers
-  - Real-time chat between landlords & seekers
-  - Admin moderation system for listings & reviews
-  - Smart onboarding with personalized suggestions & wishlist management
-- 💡 **Highlights**:
-  - Designed for Sri Lankan campus/workplace transitions
-  - Integrated geolocation services & Firebase authentication
-  - Built admin approval workflow with role-based access control
-- 🌐 **Upcoming**: Multi-language support, visit scheduler, nearby services
-
----
-
-### 🎓 Academic & Learning Projects
-
-#### **SCM-Web-App**
-*Software Configuration Management Course Project*
-- 📦 **Stack**: PHP, MySQL, Git workflows
-- 💡 Branch management, pull requests, merge conflict resolution, CI/CD pipelines
-
-#### **Pharmacy Management System**
-*Inventory & Order Management*
-- 📦 **Stack**: PHP, Blade Templates, MySQL
-- 💡 MVC architecture, data relationships, user workflows
-
-#### **Login System with PHP & MySQL**
-*My First Full Project*
-- 📦 **Stack**: PHP, MySQL
-- 💡 Authentication, session management, form validation, SQL injection prevention
-
----
-
-## 📊 Development Journey
-
-```mermaid
-gantt
-    title My Software Engineering Journey
-    dateFormat YYYY-MM
-    section Foundation
-    PHP & MySQL Basics           :2023-01, 2023-06
-    section Web Development
-    Login Systems & CRUD Apps    :2023-06, 2023-12
-    section Advanced
-    SCM & Collaborative Dev      :2023-12, 2024-06
-    Full-Stack Applications      :2024-06, 2024-12
-    section Current
-    Laravel & Next.js & Vue.js   :2024-12, 2025-03
-    Flutter & Mobile Development :2025-01, 2025-06
-    Enterprise Systems           :2025-01, 2025-06
-```
-
----
-
-## 🎯 2025 Roadmap
-
-```mermaid
-graph TD
-    A[Current State] --> B[Q1 2025: Full-Stack & Mobile & Enterprise]
-    B --> C[Q2 2025: DevOps & Deployment]
-    C --> D[Q3-Q4 2025: Advanced Features]
-    
-    B --> B1[Laravel + Vue.js + Inertia.js]
-    B --> B2[Flutter Production Apps]
-    B --> B3[Enterprise Order Systems]
-    
-    C --> C1[Docker Containerization]
-    C --> C2[AWS/Firebase Deployment]
-    C --> C3[CI/CD Automation]
-    
-    D --> D1[Microservices Architecture]
-    D --> D2[Real-time Features]
-    D --> D3[Portfolio Expansion]
-    
-    style A fill:#FF5722
-    style B fill:#4CAF50
-    style C fill:#2196F3
-    style D fill:#9C27B0
-```
-
-### Short-term Goals (3-6 months)
-- ✅ Master **Laravel**, **Flutter**, and **Vue.js** frameworks *(ACHIEVED)*
-- ✅ Build and deploy **production-ready projects** *(ACHIEVED)*
-- ✅ Build **enterprise-grade** order & workflow systems *(ACHIEVED)*
-- 🔄 Complete **Docker & CI/CD** fundamentals
-- 🔄 Deploy apps to **AWS/Firebase** cloud platforms
-- 🔄 Contribute to **5+ open-source projects**
-
-### Long-term Vision (6-12 months)
-- 🎯 Add **payment integration** to e-commerce platform
-- 🎯 Launch **CampusStay** to Google Play Store
-- 🎯 Build **microservices-based architecture**
-- 🎯 Achieve **AWS/Firebase certification**
-- 🎯 Mentor junior developers in the community
-
----
-
-## 🏆 Recent Achievements
-
-- ✨ Built a complete **e-commerce platform** with Laravel & Next.js
-- 🏢 Architected an **enterprise order management system** with Vue 3 + Inertia.js
-- 📱 Developed **mobile application** using Flutter & Firebase
-- 🔔 Implemented **automated notification system** for real-time order tracking
-- 🔐 Implemented **RBAC** with Laravel Breeze + Sanctum
-- 🗺️ Integrated **OpenStreetMap** for location-based features
-- 🎨 Designed **responsive UI** with light/dark mode support
-- 💬 Created **real-time chat** functionality
-
----
-
-## 🌐 Tech Stack Proficiency
+## 📊 GitHub Statistics
 
 <div align="center">
-
-| Technology | Proficiency | Experience |
-|:---:|:---:|:---:|
-| **PHP & Laravel** | ⭐⭐⭐⭐⭐ | 2+ years |
-| **Vue.js & Inertia.js** | ⭐⭐⭐⭐ | Recent |
-| **Flutter & Dart** | ⭐⭐⭐⭐ | Recent |
-| **Next.js & React** | ⭐⭐⭐⭐ | Recent |
-| **JavaScript** | ⭐⭐⭐⭐ | 1+ year |
-| **Python** | ⭐⭐⭐ | 1+ year |
-| **MySQL** | ⭐⭐⭐⭐ | 2+ years |
-| **Firebase** | ⭐⭐⭐⭐ | Recent |
-| **Git/GitHub** | ⭐⭐⭐⭐ | 2+ years |
-| **Docker** | ⭐⭐ | Learning |
-
+<img width="80%" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DNamidu99%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 📫 Let's Connect!
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DNamidu99%26theme%3Dtokyonight%26no-frame%3Dtrue%26no-bg%3Dfalse%26margin-w%3D4%26row%3D2%26column%3D4" alt="GitHub Trophies"/>
+</div>
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DNamidu99%26bg_color%3D1a1b27%26color%3D70a5fd%26line%3D38bdae%26point%3D70a5fd%26area%3Dtrue%26hide_border%3Dtrue" alt="Contribution Graph"/>
+</div>
+
+---
+
+<div align="center">
+<img width="90%" src="https://www.google.com/search?q=http://github-profile-summary-cards.vercel.app/api/cards/profile-details%3Fusername%3DNamidu99%26theme%3Dtokyonight" alt="Profile Summary"/>
+</div>
+
+<div align="center">
+<img width="49%" src="https://www.google.com/search?q=http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language%3Fusername%3DNamidu99%26theme%3Dtokyonight" alt="Repos per Language"/>
+<img width="49%" src="https://www.google.com/search?q=http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language%3Fusername%3DNamidu99%26theme%3Dtokyonight" alt="Most Commit Language"/>
+</div>
+
+<div align="center">
+<img width="49%" src="https://www.google.com/search?q=http://github-profile-summary-cards.vercel.app/api/cards/stats%3Fusername%3DNamidu99%26theme%3Dtokyonight" alt="Stats"/>
+<img width="49%" src="https://www.google.com/search?q=http://github-profile-summary-cards.vercel.app/api/cards/productive-time%3Fusername%3DNamidu99%26theme%3Dtokyonight%26utcOffset%3D5.5" alt="Productive Time"/>
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 🚀 Featured Projects
+
+### 🌟 Production-Level Projects
+
+#### **🏢 Enterprise Order Management & Customer Notification System** `NEW`
+
+*Multi-Stage Order Workflow with Real-Time Notifications*
+
+* 📦 **Stack**: Laravel 10, Vue 3, Inertia.js, MySQL, REST APIs
+* 🎯 **Key Features**: Multi-step order workflow (6 stages), Automated notifications, IRM tracking, Bulk invoice splitting, RBAC (Super Admin/Staff).
+
+#### **🛒 Full Stack E-Commerce Web Application**
+
+*Complete E-Commerce System with Role-Based Access*
+
+* 📦 **Stack**: Laravel 10, Next.js 14, MySQL, Tailwind CSS
+* 🎯 **Key Features**: Three-tier user system, Product CRUD, Shopping cart, Dashboard analytics, Sanctum API auth.
+
+#### **🏠 CampusStay - Smart Rental Finder App**
+
+*Mobile App for Students & Professionals*
+
+* 📦 **Stack**: Flutter, Firebase (Auth, Firestore), OpenStreetMap
+* 🎯 **Key Features**: Location-based discovery, Real-time chat, Admin moderation, Smart onboarding.
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 🎯 Current Focus & Roadmap
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[Current Focus] --> B[Full-Stack Dev]
+    A --> C[Mobile Dev]
+    B --> E[Laravel & Next.js]
+    C --> F[Flutter & Firebase]
+    style A fill:#4CAF50,color:#fff
+    style B fill:#2196F3,color:#fff
+    style C fill:#FF9800,color:#fff
+
+```
+
+</div>
+
+### 2025 Goals
+
+* 🔄 Complete **Docker & CI/CD** fundamentals
+* 🔄 Deploy apps to **AWS/Firebase** cloud platforms
+* 🔄 Contribute to **5+ open-source projects**
+* 🎯 Launch **CampusStay** to Google Play Store
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 🎭 Professional Values & Fun Facts
+
+<div align="center">
+
+```javascript
+const namiduFacts = {
+    favoriteStack: "Laravel + Vue.js + Flutter 💙",
+    codeEditor: "VS Code (Dark Mode always) 🌑",
+    debuggingMethod: "Rubber Duck Debugging & Coffee ☕",
+    values: ["Clean Code", "Collaboration", "Impact"],
+    hobbies: ["Tech Research", "Gaming", "Problem Solving"]
+};
+
+console.log("Code is like humor. When you have to explain it, it's bad.");
+
+```
+
+</div>
+
+---
 
 <div align="center">
 
@@ -303,47 +250,48 @@ graph TD
 
 **📧 Email**: [nami.hasalanka@gmail.com](mailto:nami.hasalanka@gmail.com)
 **💼 LinkedIn**: [namidu-kumarasinghe](https://www.linkedin.com/in/namidu-kumarasinghe-943a7a2a2/)
-**🐙 GitHub**: [Namidu99](https://github.com/Namidu99)
-
-### 🎯 Open to:
-**Collaboration** • **Open Source** • **Freelance Projects** • **Mentorship** • **Tech Discussions**
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 💼 Professional Values
-
-```mermaid
-mindmap
-  root((Software
-    Engineering))
-    Clean Code
-      Readability
-      Maintainability
-      Documentation
-    Collaboration
-      Code Reviews
-      Knowledge Sharing
-      Team Communication
-    Continuous Learning
-      New Technologies
-      Best Practices
-      Industry Trends
-    Problem Solving
-      Critical Thinking
-      Creative Solutions
-      User-Centric Design
 ```
 
----
+### ⚠️ Important Step for the Snake Animation
+The "Contribution Snake" (the snake eating your commit squares) requires a **GitHub Action** to actually generate the image. Without this, the image will be broken.
 
-<div align="center">
+1.  Create a folder in your repo: `.github/workflows`
+2.  Create a file inside it named `snake.yml`
+3.  Paste this code inside `snake.yml`:
 
-**💫 "Code is like humor. When you have to explain it, it's bad."** – Cory House
+```yaml
+name: Generate Snake
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Namidu99.Namidu99)](https://github.com/Namidu99)
+on:
+  schedule:
+    # every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
-**⭐ If you find my work interesting, consider giving a star to my repositories!**
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - uses: Platane/snk@v2
+        id: snake-gif
+        with:
+          github_user_name: Namidu99
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-</div>
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+```
