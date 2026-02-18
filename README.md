@@ -1,19 +1,14 @@
 # 👨‍💻 Namidu Hasalanka Kumarasinghe
 
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  Software Engineer | Problem Solver | Continuous Learner    ║
-║  BSc (Hons) Software Engineering @ CINEC Campus             ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Problem+Solver+🚀;Full-Stack+%26+Mobile+Developer+📱;Laravel+%7C+Next.js+%7C+Flutter+%7C+Vue.js;BSc+(Hons)+Software+Engineering+@+CINEC;Building+meaningful+software%2C+one+commit+at+a+time+✨" alt="Typing SVG" />
+</div>
 
 <div align="center">
 
-**`Building meaningful software, one commit at a time`**
-
-[![Email](https://img.shields.io/badge/Email-nami.hasalanka%40gmail.com-red?style=flat-square&logo=gmail)](mailto:nami.hasalanka@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-namidu--kumarasinghe-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/namidu-kumarasinghe-943a7a2a2/)
-[![GitHub](https://img.shields.io/badge/GitHub-Namidu99-black?style=flat-square&logo=github)](https://github.com/Namidu99)
+[![Email](https://img.shields.io/badge/Email-nami.hasalanka%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:nami.hasalanka@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-namidu--kumarasinghe-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/namidu-kumarasinghe-943a7a2a2/)
+[![GitHub](https://img.shields.io/badge/GitHub-Namidu99-black?style=for-the-badge&logo=github)](https://github.com/Namidu99)
 
 </div>
 
@@ -27,6 +22,30 @@ I'm driven by the challenge of transforming complex problems into elegant soluti
 
 ---
 
+## 🚀 About Me
+
+```javascript
+const namidu = {
+    education: "BSc (Hons) Software Engineering - CINEC Campus",
+    location: "Sri Lanka 🇱🇰",
+    currentlyBuilding: [
+        "Production-ready full-stack applications",
+        "Cross-platform mobile solutions with Flutter",
+        "Enterprise-grade order management systems"
+    ],
+    currentlyLearning: [
+        "Docker & CI/CD Pipelines",
+        "AWS / Firebase Cloud Deployment",
+        "Microservices Architecture"
+    ],
+    availableFor: ["Collaboration", "Open Source", "Freelance Projects", "Mentorship"]
+};
+
+console.log("Welcome to my GitHub! Let's build something impactful together 🚀");
+```
+
+---
+
 ## 🎯 Current Focus
 
 ```mermaid
@@ -34,7 +53,7 @@ graph LR
     A[Current Focus] --> B[Full-Stack Development]
     A --> C[Mobile Development]
     A --> D[Cloud Integration]
-    B --> E[Laravel & Next.js]
+    B --> E[Laravel & Next.js & Vue.js]
     C --> F[Flutter & Firebase]
     D --> G[Modern Architectures]
     
@@ -44,39 +63,60 @@ graph LR
     style D fill:#9C27B0
 ```
 
-- 🔭 Building **production-ready full-stack** applications
-- 📱 Developing **cross-platform mobile** solutions with Flutter
-- 🔥 Integrating **Firebase** for real-time features
-- 🏗️ Architecting **scalable** modern applications
-
 ---
 
-## 🛠️ Technology Arsenal
+## 🛠️ Tech Stack & Tools
 
-### Frontend Ecosystem
-```
-HTML5 • CSS3 • JavaScript • React • Next.js • Flutter • Tailwind CSS • Bootstrap • Material-UI
-```
+<div align="center">
 
-### Backend & Databases
-```
-PHP • Laravel • Python • Node.js (Express.js) • MySQL • PostgreSQL • Firebase • Firestore
-```
+### 🎨 Frontend Development
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
+</p>
 
-### Mobile Development
-```
-Flutter • Dart • Firebase Authentication • Cloud Firestore • Provider State Management
-```
+### ⚙️ Backend Development
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white"/>
+</p>
 
-### DevOps & Tools
-```
-Git • GitHub • CI/CD Pipelines • Docker • Linux • Firebase Hosting
-```
+### 🗄️ Databases
+<p>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
+</p>
 
-### Architecture & Practices
-```
-RESTful APIs • JWT Authentication • Database Design • MVC Pattern • State Management • Responsive Design
-```
+### 📱 Mobile Development
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+### 🛠️ Tools & DevOps
+<p>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+</div>
 
 ---
 
@@ -84,73 +124,76 @@ RESTful APIs • JWT Authentication • Database Design • MVC Pattern • Stat
 
 ### 🌟 Production-Level Projects
 
-#### **🛒 Full Stack E-Commerce Web Application** `NEW`
-*Complete E-Commerce System with Role-Based Access*
-- 📦 **Stack**: Laravel 10, Next.js 14, MySQL, Tailwind CSS
-- 🎯 **Features**: 
-  - Three-tier user system (Admin, User, Customer)
-  - Product management with CRUD operations
-  - Shopping cart and customer profiles
-  - Advanced search with 4+ filters
-  - User privilege management
-  - Light/Dark mode toggle
-- 💡 **Key Achievements**: 
-  - Built scalable REST APIs with Laravel Sanctum
-  - Implemented responsive design across all devices
-  - Integrated client & server-side validation
-  - Dashboard with real-time statistics
-- 🔗 **Admin Panel**: `localhost:3000/login`
-- 🔗 **Customer Panel**: `localhost:3000/customer/login`
+---
 
-#### **🏠 CampusStay - Smart Rental Finder App** `NEW`
+#### **🏢 Enterprise Order Management & Customer Notification System** `NEW`
+*Multi-Stage Order Workflow with Real-Time Notifications*
+
+- 📦 **Stack**: Laravel 10, Vue 3, Inertia.js, MySQL, REST APIs
+- 🎯 **Key Features**:
+  - Multi-step order workflow tracking orders through **6 operational stages** (creation → delivery)
+  - Automated customer notification system for real-time status updates at each stage
+  - IRM-based order tracking with unique reference generation for audit and traceability
+  - Bulk order splitting into multiple invoices based on quantity and dispatch stages
+  - Role-based access control (RBAC) with Super Admin, staff roles, and permission-based access
+  - Customer and product management modules with relational database design
+  - Secure authentication and authorization using **Laravel Breeze + Sanctum**
+- 💡 **Highlights**:
+  - Modern SPA-style frontend with **Vue 3 + Inertia.js** for smooth, fast UX
+  - Scalable MySQL schema supporting orders, invoices, workflow logs, and user permissions
+  - Applied MVC architecture, clean code practices, and RESTful design principles
+
+---
+
+#### **🛒 Full Stack E-Commerce Web Application**
+*Complete E-Commerce System with Role-Based Access*
+
+- 📦 **Stack**: Laravel 10, Next.js 14, MySQL, Tailwind CSS
+- 🎯 **Key Features**:
+  - Three-tier user system (Admin, User, Customer)
+  - Product management with CRUD operations & advanced search (4+ filters)
+  - Shopping cart, customer profiles, and user privilege management
+  - Light/Dark mode toggle
+- 💡 **Highlights**:
+  - Scalable REST APIs with Laravel Sanctum
+  - Fully responsive UI across all devices
+  - Dashboard with real-time statistics
+
+---
+
+#### **🏠 CampusStay - Smart Rental Finder App**
 *Mobile App for Students & Professionals*
+
 - 📦 **Stack**: Flutter, Firebase (Auth, Firestore), OpenStreetMap, Provider
-- 🎯 **Features**: 
-  - Location-based property discovery
-  - Interactive map with property markers
+- 🎯 **Key Features**:
+  - Location-based property discovery with interactive map & property markers
   - Real-time chat between landlords & seekers
   - Admin moderation system for listings & reviews
-  - Smart onboarding with personalized suggestions
-  - Wishlist and submission management
-- 💡 **Key Achievements**: 
+  - Smart onboarding with personalized suggestions & wishlist management
+- 💡 **Highlights**:
   - Designed for Sri Lankan campus/workplace transitions
-  - Integrated geolocation services
-  - Implemented secure Firebase authentication
-  - Built admin approval workflow
-  - Created role-based access control
+  - Integrated geolocation services & Firebase authentication
+  - Built admin approval workflow with role-based access control
 - 🌐 **Upcoming**: Multi-language support, visit scheduler, nearby services
 
 ---
 
 ### 🎓 Academic & Learning Projects
 
-#### **SCM-Web-App** 
+#### **SCM-Web-App**
 *Software Configuration Management Course Project*
 - 📦 **Stack**: PHP, MySQL, Git workflows
-- 🎯 **Focus**: Version control best practices, collaborative development, CI/CD pipelines
-- 💡 **Key Learning**: Branch management, pull requests, merge conflict resolution
+- 💡 Branch management, pull requests, merge conflict resolution, CI/CD pipelines
 
 #### **Pharmacy Management System**
 *Inventory & Order Management*
 - 📦 **Stack**: PHP, Blade Templates, MySQL
-- 🎯 **Focus**: CRUD operations, template engines, business logic
-- 💡 **Key Learning**: MVC architecture, data relationships, user workflows
+- 💡 MVC architecture, data relationships, user workflows
 
 #### **Login System with PHP & MySQL**
 *My First Full Project*
 - 📦 **Stack**: PHP, MySQL
-- 🎯 **Focus**: Authentication, session management, security basics
-- 💡 **Key Learning**: Form validation, SQL injection prevention, password hashing
-
----
-
-### 🔍 Open Source Exploration
-
-#### **HR & Payroll System Analysis**
-*Techspase, PrimeX4 Forks*
-- 🔬 **Activity**: Studied enterprise-level codebases
-- 🎯 **Focus**: Understanding complex architectures, feature implementations
-- 💡 **Key Learning**: Enterprise patterns, scalability considerations, integration strategies
+- 💡 Authentication, session management, form validation, SQL injection prevention
 
 ---
 
@@ -168,35 +211,10 @@ gantt
     SCM & Collaborative Dev      :2023-12, 2024-06
     Full-Stack Applications      :2024-06, 2024-12
     section Current
-    Laravel & Next.js Mastery    :2024-12, 2025-03
+    Laravel & Next.js & Vue.js   :2024-12, 2025-03
     Flutter & Mobile Development :2025-01, 2025-06
+    Enterprise Systems           :2025-01, 2025-06
 ```
-
----
-
-## 📈 GitHub Activity
-
-```mermaid
-pie title Repository Distribution
-    "Production Apps" : 25
-    "Web Applications" : 30
-    "Mobile Apps" : 15
-    "Learning Projects" : 20
-    "Open Source Forks" : 10
-```
-
-<div align="center">
-
-### Stats at a Glance
-| Metric | Count |
-|:---:|:---:|
-| 📦 Public Repositories | 9+ |
-| ⭐ Stars Earned | Growing |
-| 🔱 Forks Created | 3+ |
-| 👥 Collaborative Projects | Active |
-| 🚀 Production Apps | 2 |
-
-</div>
 
 ---
 
@@ -204,13 +222,13 @@ pie title Repository Distribution
 
 ```mermaid
 graph TD
-    A[Current State] --> B[Q1 2025: Full-Stack & Mobile]
+    A[Current State] --> B[Q1 2025: Full-Stack & Mobile & Enterprise]
     B --> C[Q2 2025: DevOps & Deployment]
     C --> D[Q3-Q4 2025: Advanced Features]
     
-    B --> B1[Laravel Advanced Features]
+    B --> B1[Laravel + Vue.js + Inertia.js]
     B --> B2[Flutter Production Apps]
-    B --> B3[Next.js Optimization]
+    B --> B3[Enterprise Order Systems]
     
     C --> C1[Docker Containerization]
     C --> C2[AWS/Firebase Deployment]
@@ -227,8 +245,9 @@ graph TD
 ```
 
 ### Short-term Goals (3-6 months)
-- ✅ Master **Laravel** and **Flutter** frameworks *(ACHIEVED)*
-- ✅ Build and deploy **2 production-ready projects** *(ACHIEVED)*
+- ✅ Master **Laravel**, **Flutter**, and **Vue.js** frameworks *(ACHIEVED)*
+- ✅ Build and deploy **production-ready projects** *(ACHIEVED)*
+- ✅ Build **enterprise-grade** order & workflow systems *(ACHIEVED)*
 - 🔄 Complete **Docker & CI/CD** fundamentals
 - 🔄 Deploy apps to **AWS/Firebase** cloud platforms
 - 🔄 Contribute to **5+ open-source projects**
@@ -239,6 +258,57 @@ graph TD
 - 🎯 Build **microservices-based architecture**
 - 🎯 Achieve **AWS/Firebase certification**
 - 🎯 Mentor junior developers in the community
+
+---
+
+## 🏆 Recent Achievements
+
+- ✨ Built a complete **e-commerce platform** with Laravel & Next.js
+- 🏢 Architected an **enterprise order management system** with Vue 3 + Inertia.js
+- 📱 Developed **mobile application** using Flutter & Firebase
+- 🔔 Implemented **automated notification system** for real-time order tracking
+- 🔐 Implemented **RBAC** with Laravel Breeze + Sanctum
+- 🗺️ Integrated **OpenStreetMap** for location-based features
+- 🎨 Designed **responsive UI** with light/dark mode support
+- 💬 Created **real-time chat** functionality
+
+---
+
+## 🌐 Tech Stack Proficiency
+
+<div align="center">
+
+| Technology | Proficiency | Experience |
+|:---:|:---:|:---:|
+| **PHP & Laravel** | ⭐⭐⭐⭐⭐ | 2+ years |
+| **Vue.js & Inertia.js** | ⭐⭐⭐⭐ | Recent |
+| **Flutter & Dart** | ⭐⭐⭐⭐ | Recent |
+| **Next.js & React** | ⭐⭐⭐⭐ | Recent |
+| **JavaScript** | ⭐⭐⭐⭐ | 1+ year |
+| **Python** | ⭐⭐⭐ | 1+ year |
+| **MySQL** | ⭐⭐⭐⭐ | 2+ years |
+| **Firebase** | ⭐⭐⭐⭐ | Recent |
+| **Git/GitHub** | ⭐⭐⭐⭐ | 2+ years |
+| **Docker** | ⭐⭐ | Learning |
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Open+for+exciting+collaborations+🤝;Let's+build+something+amazing+together+🚀;Always+happy+to+connect+with+fellow+developers+👨‍💻" alt="Collaboration Text"/>
+
+**📧 Email**: [nami.hasalanka@gmail.com](mailto:nami.hasalanka@gmail.com)
+**💼 LinkedIn**: [namidu-kumarasinghe](https://www.linkedin.com/in/namidu-kumarasinghe-943a7a2a2/)
+**🐙 GitHub**: [Namidu99](https://github.com/Namidu99)
+
+### 🎯 Open to:
+**Collaboration** • **Open Source** • **Freelance Projects** • **Mentorship** • **Tech Discussions**
+
+</div>
 
 ---
 
@@ -266,81 +336,14 @@ mindmap
       User-Centric Design
 ```
 
-- 📖 **Clean Code Advocate**: Writing code that others can understand and maintain
-- 🤝 **Collaboration First**: Believing in the power of teamwork and knowledge sharing
-- 🎓 **Lifelong Learner**: Staying curious and adaptable in a rapidly evolving field
-- 🔧 **Pragmatic Problem Solver**: Balancing theoretical knowledge with practical implementation
-
 ---
-
-## 🌐 Tech Stack Proficiency
 
 <div align="center">
 
-| Technology | Proficiency | Experience |
-|:---:|:---:|:---:|
-| **PHP & Laravel** | ⭐⭐⭐⭐⭐ | 2+ years |
-| **Flutter & Dart** | ⭐⭐⭐⭐ | Recent |
-| **Next.js & React** | ⭐⭐⭐⭐ | Recent |
-| **JavaScript** | ⭐⭐⭐⭐ | 1+ year |
-| **Python** | ⭐⭐⭐ | 1+ year |
-| **MySQL** | ⭐⭐⭐⭐ | 2+ years |
-| **Firebase** | ⭐⭐⭐⭐ | Recent |
-| **Git/GitHub** | ⭐⭐⭐⭐ | 2+ years |
-| **Docker** | ⭐⭐ | Learning |
-
-</div>
-
----
-
-## 🏆 Recent Achievements
-
-- ✨ Built a complete **e-commerce platform** with Laravel & Next.js
-- 📱 Developed **mobile application** using Flutter & Firebase
-- 🔐 Implemented **JWT authentication** and role-based access control
-- 🗺️ Integrated **OpenStreetMap** for location-based features
-- 🎨 Designed **responsive UI** with light/dark mode support
-- 💬 Created **real-time chat** functionality
-- 🛡️ Built **admin moderation** systems
-
----
-
-## 📫 Let's Connect!
-
-```
-┌─────────────────────────────────────────────────┐
-│  I'm always open to interesting conversations   │
-│  and collaboration opportunities!               │
-│                                                 │
-│  📧 Email:    nami.hasalanka@gmail.com         │
-│  💼 LinkedIn: namidu-kumarasinghe              │
-│  🐙 GitHub:   Namidu99                         │
-└─────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-### 🎯 Open to:
-**Collaboration** • **Open Source** • **Freelance Projects** • **Mentorship** • **Tech Discussions**
-
----
-
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+**💫 "Code is like humor. When you have to explain it, it's bad."** – Cory House
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Namidu99.Namidu99)](https://github.com/Namidu99)
 
 **⭐ If you find my work interesting, consider giving a star to my repositories!**
-
-</div>
-
----
-
-<div align="center">
-
-```
-░█▀▀░█▀█░█▀▄░▀█▀░█▀█░█▀▀░░░█░█░▀█▀░▀█▀░█░█░░░█▀█░█▀█░█▀▀░█▀▀░▀█▀░█▀█░█▀█
-░█░░░█░█░█░█░░█░░█░█░█░█░░░█▄█░░█░░░█░░█▀█░░░█▀▀░█▀█░▀▀█░▀▀█░░█░░█░█░█░█
-░▀▀▀░▀▀▀░▀▀░░▀▀▀░▀░▀░▀▀▀░░░▀░▀░▀▀▀░░▀░░▀░▀░░░▀░░░▀░▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀░▀
-```
 
 </div>
